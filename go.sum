@@ -105,6 +105,8 @@ github.com/wiremock/go-wiremock v1.11.0 h1:BL4uVNgUV3uHbavAro4c0EIa/IIOeV7icO34J
 github.com/wiremock/go-wiremock v1.11.0/go.mod h1:/uvO0XFheyy8XetvQqm4TbNQRsGPlByeNegzLzvXs0c=
 github.com/wiremock/wiremock-testcontainers-go v1.0.0-alpha-11 h1:chTYKszrAekIOy8FrbxPR6xDbu0w2rmoPiFxmvZ7iS8=
 github.com/wiremock/wiremock-testcontainers-go v1.0.0-alpha-11/go.mod h1:58lk79rzPrDI2q/LqTpb0mwUQm4USX4X+lh/sGZXs2Y=
+github.com/wiremock/wiremock-testcontainers-go v1.0.0-alpha-9 h1:LUa3up/6uLDRo6U++9VtLHfsJKQjwqHyHmdXuT3cqdU=
+github.com/wiremock/wiremock-testcontainers-go v1.0.0-alpha-9/go.mod h1:nWMqyEkwfGVBm8gOpQ41RhUWUqSfsFhlIrxMtO9NziU=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yusufpapurcu/wmi v1.2.4 h1:zFUKzehAFReQwLys1b/iSMl+JQGSCSjtVqQn9bBrPo0=
