@@ -2,7 +2,7 @@ module renovate-35522
 
 go 1.24.5
 
-require github.com/wiremock/wiremock-testcontainers-go v1.0.0-alpha-11
+require github.com/wiremock/wiremock-testcontainers-go v1.0.0-alpha-9
 
 require (
 	dario.cat/mergo v1.0.1 // indirect
